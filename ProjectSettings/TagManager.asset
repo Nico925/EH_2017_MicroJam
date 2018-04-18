@@ -6,6 +6,8 @@ TagManager:
   tags:
   - Wall
   - GameOver
+  - Pick up
+  - AddTime
   layers:
   - Default
   - TransparentFX
